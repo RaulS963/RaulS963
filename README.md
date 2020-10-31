@@ -4,6 +4,11 @@ I'm Raul, welcome to my github.
 
 
 - 💬 Ask me about : Anime & Cats
+- 🖥️ Technology experience:
+  - Full stack Development
+  - Web Scrapping
+  - Python
+  - Heroku
 - 📫 How to reach me :
   - Twitter [@EruzaOP](https://twitter.com/EruzaOP)
 - ⚡ Interests : 
