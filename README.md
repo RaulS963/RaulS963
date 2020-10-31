@@ -1,22 +1,13 @@
 ### Hi there 👋
 
-<!--
-**RaulS963/RaulS963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raul, welcome to my github.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about : Anime & Cats
+- 📫 How to reach me :
+  - Twitter [@EruzaOP](https://twitter.com/EruzaOP)
+- ⚡ Interests : 
+  - Anime all day
+  - Making sh\*tty programs 
 
-Python | Java | PHP | JavaScript | C++
-
-<svg viewBox="0 0 128 128">
-  <path class="a" d="M95 2.3l30.5 12.3v98.7L94.8 125.7 45.8 77l-31 24.1L2.5 94.9V33.1l12.3-5.9 31 24.3ZM14.8 45.7V83.2l18.5-19Zm48.1 18.5L94.8 89.3V39Z"></path>
-</svg>
+Python | PHP | JavaScript |
