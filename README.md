@@ -10,4 +10,4 @@ I'm Raul, welcome to my github.
   - Anime all day
   - Making sh\*tty programs 
 
-Python | PHP | JavaScript |
+Python | PHP | HTML | JavaScript
